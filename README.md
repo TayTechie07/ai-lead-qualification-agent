@@ -59,4 +59,13 @@ The agent evaluates a lead message, assigns an intent score, explains the reason
 ---
 
 ## 📊 Sample Output
+Paste the lead message here:
+Hello, I’m exploring AI tools for improving lead handling in our business. I’d like to learn more about possible options.
+
+----- AI AGENT RESULT -----
+Intent Level: Medium
+Explanation: The lead shows medium intent based on keyword relevance (score: 2).
+
+Suggested Reply:
+Thanks for your message. Please share more details so we can better understand your needs.
 
